@@ -108,4 +108,4 @@ npm run mega-test
 
 ## License
 
-ISC © Henry Song
+MIT © Henry Song
