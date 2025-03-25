@@ -1,6 +1,6 @@
 {
   "name": "casetext-transformer",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "The ultimate text transformation library with 40+ transformations - from standard case conversions to creative text effects",
   "main": "index.js",
   "type": "module",
