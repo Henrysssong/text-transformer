@@ -4,6 +4,14 @@
   "description": "The ultimate text transformation library with 40+ transformations - from standard case conversions to creative text effects",
   "main": "index.js",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henrysssong/text-transformer.git"
+  },
+  "homepage": "https://github.com/Henrysssong/text-transformer#readme",
+  "bugs": {
+    "url": "https://github.com/Henrysssong/text-transformer/issues"
+  },
   "scripts": {
     "test": "node test.js",
     "fun-test": "node fun-test.js",

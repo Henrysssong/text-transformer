@@ -106,6 +106,26 @@ npm run mega-test
 ✅ Fully documented API  
 ✅ Works in Node.js and browsers  
 
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests to help make this project even better.
+
+### How to Contribute
+
+1. Fork the repository on GitHub
+2. Clone your fork: `git clone https://github.com/your-username/text-transformer.git`
+3. Create a branch for your feature: `git checkout -b feature-name`
+4. Make your changes and commit them: `git commit -m 'Add some feature'`
+5. Push to your branch: `git push origin feature-name`
+6. Submit a pull request
+
+Some ideas for contributions:
+- Add new text transformation functions
+- Improve existing transformations
+- Add TypeScript type definitions
+- Write tests
+- Create a demo website
+
 ## License
 
 MIT © Henry Song
